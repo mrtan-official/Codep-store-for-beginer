@@ -1,2 +1,2 @@
-# Codep-storeo-for-beginer
-CSE STUDENT CODE STORE.
+# Codep-store-for-beginer
+ CODE STORE for CSE STUDENTS
